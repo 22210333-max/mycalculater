@@ -43,7 +43,6 @@ def main():
 
     # --- Window ---
     window = tk.Tk()
-    window.title("Calculator")
     window.resizable(True, True)
     window.minsize(380, 560)
     window.configure(bg="#1e1e2e")
